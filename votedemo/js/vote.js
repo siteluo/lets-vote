@@ -186,7 +186,7 @@ var vote = (function () {
                 str += '<li>'
                     + '<div class="head">'
                     + '   <a href="detail.html">' + lists[i].id + '>'
-                    + '      <img src="' + lists[i].head_icon + '" alt="">'
+                    + '      <img src="' + lists[i].head_icon + '" alt="" class="img_H">'
                     + '   </a>'
                     + '</div>'
                     + '<div class="up">'

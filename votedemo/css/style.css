@@ -688,7 +688,11 @@ height: 100%;
     background-color: rgba(23, 21, 21, 0.71);
     display: none;
 }
-
+.img_H{
+    width: 100%;
+    height: 100%;
+    margin-top: -15px;
+}
 .submit_info {
     width: 70%;
     height: 180px;

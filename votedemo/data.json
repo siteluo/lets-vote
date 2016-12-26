@@ -7,12 +7,12 @@
     "limit": 10,
     "objects": [
       {
-        "username": "山治",
+        "username": "肯德基",
         "mobile": "15097631280",
-        "description": "我想要借个火！",
+        "description": "生活如此多娇”、“尽情自在肯德基！",
         "gender": "boy",
         "password": "123",
-        "head_icon": "images/boy.png",
+        "head_icon": "images/kfc.jpg",
         "id": 1,
         "vote": 9,
         "rank": 1,
@@ -47,12 +47,12 @@
         ]
       },
       {
-        "username": "娜美",
+        "username": "麦当劳",
         "mobile": "15097631280",
-        "description": "吃橘子啦！",
+        "description": "顾客至上，顾客永远第一！",
         "gender": "girl",
         "password": "123",
-        "head_icon": "images/girl.png",
+        "head_icon": "images/MDc.png",
         "id": 2,
         "vote": 7,
         "rank": 2,
@@ -87,12 +87,12 @@
         ]
       },
       {
-        "username": "索隆",
+        "username": "吉野家",
         "mobile": "15097631280",
-        "description": "我想要借个火！",
+        "description": "最好的牛肉饭！",
         "gender": "boy",
         "password": "123",
-        "head_icon": "images/boy.png",
+        "head_icon": "images/jiyejia.png",
         "id": 3,
         "vote": 6,
         "rank": 3,
@@ -127,55 +127,15 @@
         ]
       },
       {
-        "username": "罗宾",
+        "username": "德克士",
         "mobile": "15097631280",
-        "description": "买点书建个图书馆！",
+        "description": "天生好客！",
         "gender": "girl",
         "password": "123",
-        "head_icon": "images/girl.png",
+        "head_icon": "images/dicos.png",
         "id": 4,
         "vote": 4,
         "rank": 4,
-        "vote_times": 2,
-        "vfriend": [
-          {
-            "username": "can",
-            "mobile": "15097631280",
-            "gender": "boy",
-            "password": "123",
-            "head_icon": "images/boy.png",
-            "id": 3,
-            "vote": 0,
-            "rank": 7,
-            "vote_times": 1,
-            "vfriend": [],
-            "time": 1482646235000
-          },
-          {
-            "username": "123",
-            "mobile": "11111111111",
-            "gender": "boy",
-            "password": "123",
-            "head_icon": "images/girl.png",
-            "id": 3,
-            "vote": 0,
-            "rank": 6,
-            "vote_times": 2,
-            "vfriend": [],
-            "time": 1482644840000
-          }
-        ]
-      },
-      {
-        "username": "路费",
-        "mobile": "15097631280",
-        "description": "我是要当海贼王的人！",
-        "gender": "boy",
-        "password": "123",
-        "head_icon": "images/boy.png",
-        "id": 5,
-        "vote": 3,
-        "rank": 5,
         "vote_times": 2,
         "vfriend": [
           {
